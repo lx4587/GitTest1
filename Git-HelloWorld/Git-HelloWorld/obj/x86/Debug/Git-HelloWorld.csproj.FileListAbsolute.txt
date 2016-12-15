@@ -1,0 +1,6 @@
+E:\Work\Git\GitTest1\Git-HelloWorld\Git-HelloWorld\bin\Debug\Git-HelloWorld.exe
+E:\Work\Git\GitTest1\Git-HelloWorld\Git-HelloWorld\bin\Debug\Git-HelloWorld.pdb
+E:\Work\Git\GitTest1\Git-HelloWorld\Git-HelloWorld\obj\x86\Debug\Git_HelloWorld.Properties.Resources.resources
+E:\Work\Git\GitTest1\Git-HelloWorld\Git-HelloWorld\obj\x86\Debug\Git-HelloWorld.csproj.GenerateResource.Cache
+E:\Work\Git\GitTest1\Git-HelloWorld\Git-HelloWorld\obj\x86\Debug\Git-HelloWorld.exe
+E:\Work\Git\GitTest1\Git-HelloWorld\Git-HelloWorld\obj\x86\Debug\Git-HelloWorld.pdb
