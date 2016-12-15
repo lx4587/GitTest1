@@ -5,3 +5,4 @@ E:\Work\Git\GitTest1\Git-HelloWorld\Git-HelloWorld\obj\x86\Debug\Git-HelloWorld.
 E:\Work\Git\GitTest1\Git-HelloWorld\Git-HelloWorld\obj\x86\Debug\Git-HelloWorld.exe
 E:\Work\Git\GitTest1\Git-HelloWorld\Git-HelloWorld\obj\x86\Debug\Git-HelloWorld.pdb
 E:\Work\Git\GitTest1\Git-HelloWorld\Git-HelloWorld\obj\x86\Debug\Git_HelloWorld.Form1.resources
+E:\Work\Git\GitTest1\Git-Helloworld\Git-HelloWorld\obj\x86\Debug\Git-HelloWorld.csprojResolveAssemblyReference.cache
