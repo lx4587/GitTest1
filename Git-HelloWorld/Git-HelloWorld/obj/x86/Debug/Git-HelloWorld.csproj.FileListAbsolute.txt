@@ -4,3 +4,4 @@ E:\Work\Git\GitTest1\Git-HelloWorld\Git-HelloWorld\obj\x86\Debug\Git_HelloWorld.
 E:\Work\Git\GitTest1\Git-HelloWorld\Git-HelloWorld\obj\x86\Debug\Git-HelloWorld.csproj.GenerateResource.Cache
 E:\Work\Git\GitTest1\Git-HelloWorld\Git-HelloWorld\obj\x86\Debug\Git-HelloWorld.exe
 E:\Work\Git\GitTest1\Git-HelloWorld\Git-HelloWorld\obj\x86\Debug\Git-HelloWorld.pdb
+E:\Work\Git\GitTest1\Git-HelloWorld\Git-HelloWorld\obj\x86\Debug\Git_HelloWorld.Form1.resources
